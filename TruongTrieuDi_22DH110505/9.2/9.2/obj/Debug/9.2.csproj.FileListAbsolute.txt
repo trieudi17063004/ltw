@@ -1,0 +1,8 @@
+C:\Users\trieu\OneDrive\triều dĩ\TruongTrieuDi_22DH110505\9.2\9.2\bin\Debug\9.2.exe.config
+C:\Users\trieu\OneDrive\triều dĩ\TruongTrieuDi_22DH110505\9.2\9.2\bin\Debug\9.2.exe
+C:\Users\trieu\OneDrive\triều dĩ\TruongTrieuDi_22DH110505\9.2\9.2\bin\Debug\9.2.pdb
+C:\Users\trieu\OneDrive\triều dĩ\TruongTrieuDi_22DH110505\9.2\9.2\obj\Debug\9.2.csproj.AssemblyReference.cache
+C:\Users\trieu\OneDrive\triều dĩ\TruongTrieuDi_22DH110505\9.2\9.2\obj\Debug\9.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\trieu\OneDrive\triều dĩ\TruongTrieuDi_22DH110505\9.2\9.2\obj\Debug\9.2.csproj.CoreCompileInputs.cache
+C:\Users\trieu\OneDrive\triều dĩ\TruongTrieuDi_22DH110505\9.2\9.2\obj\Debug\9.2.exe
+C:\Users\trieu\OneDrive\triều dĩ\TruongTrieuDi_22DH110505\9.2\9.2\obj\Debug\9.2.pdb
